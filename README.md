@@ -7,7 +7,7 @@
 * cd into directory into your command prompt: <br>
 ``` cd Guess-Number-Game ```
 
-* Run the pdf_to_speech.py file: <br>
+* Run the guessing_game.py file: <br>
 ``` python guessing_game.py ```
 
 #### Create By ForestCrazy
